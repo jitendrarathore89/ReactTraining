@@ -1,0 +1,27 @@
+{
+  "name": "reacttraining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jitendrarathore89/ReactTraining.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jitendrarathore89/ReactTraining/issues"
+  },
+  "homepage": "https://github.com/jitendrarathore89/ReactTraining#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "dom": "^0.0.3",
+    "react": "^18.2.0",
+    "reactdom": "^2.0.0"
+  }
+}
